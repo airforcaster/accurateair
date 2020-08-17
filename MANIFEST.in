@@ -1,0 +1,3 @@
+graft accurate-air
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  accurate-air/jupy *
