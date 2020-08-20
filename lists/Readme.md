@@ -1,6 +1,6 @@
 # File Name Explanation
 
-## working_sties_data.csv
+## working_sites_data.csv
 - contains the cities which have both AQI and meteorological data
 
 
