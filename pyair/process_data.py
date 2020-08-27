@@ -6,8 +6,8 @@ import glob
 import os
 import sys
 
-BASE_PATH = "../data/rawdatasets/city_AQI"
-LIMIT = "../lists/working_sites_data.csv"
+BASE_PATH = "../../data/rawdatasets/city_AQI"
+LIMIT = "../../lists/working_sites_data.csv"
 
 def get_a_year_data(query):
     the_year_dir = os.path.join(BASE_PATH, f'city_{query}')
